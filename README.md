@@ -1,6 +1,7 @@
 # OnlineRetailStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+It was a project made to learr how to use routing and firebase with Angular4
 
 ## Development server
 
